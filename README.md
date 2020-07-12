@@ -1,1 +1,1 @@
-Banking_subsription
+Banking_subscription
